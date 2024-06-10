@@ -1,7 +1,3 @@
-Sure! Here's a sample README file for your Snake Game project on GitHub:
-
----
-
 # Snake Game
 
 A classic Snake Game implemented in Python using the Turtle graphics library.
