@@ -63,10 +63,6 @@ This is a simple implementation of the classic Snake Game. The objective is to n
 - The game speed increases slightly with each piece of food consumed.
 - The current score and the highest score are displayed at the top of the screen.
 
-## Screenshots
-
-![Gameplay Screenshot](path_to_screenshot.png)
-
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to create a pull request or open an issue.
